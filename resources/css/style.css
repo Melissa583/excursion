@@ -1,6 +1,6 @@
 h1 {
   font-family: Verdana;
-  font-weight: Normal;
+  font-weight: normal;
   font-size: 50px;
   color: White;
   text-align: center;
@@ -28,7 +28,7 @@ h2 {
   color: gray;
 }
 
-.link {
+p.link a {
   color: Aquamarine;
   font-size: 16px;
 }
